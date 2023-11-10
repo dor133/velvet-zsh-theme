@@ -2,8 +2,6 @@
 
 ![alt text](img/theme-example.png)
 
-*MODIFY THE NAME*
-
 ## How to install
 If you don't have [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) installed, first install it.
 
